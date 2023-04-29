@@ -3,7 +3,7 @@
 ## Hi, I'm Giovanni 👋
 <div>
   <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" align="right" width="300" alt="Hello GIF">
-  <p align="left" max-width="100px">I specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. I have also worked with Figma and the Adobe Photoshop suite.<br><br> I really enjoy CSS and Grid and I am proficient in responsive design. <br><br> I have worked with SQL using phpMyAdmin and LARAGON, <br> I know how to work with Bootstrap, SplideJs, and many other technologies. <br> I am video sharing with Loom.</p>
+  <p align="left" max-width="100px">Specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. Have also worked with Figma and the Adobe Photoshop suite.<br><br>Really enjoy CSS and Grid and I am proficient in responsive design. <br><br> Have worked with SQL using phpMyAdmin and LARAGON,<br> <br> Know how to work with Bootstrap, SplideJs, and many other technologies. <br><br> I am video sharing with Loom.</p>
 </div>
 
 <br><br><br><br><br><br><br>
