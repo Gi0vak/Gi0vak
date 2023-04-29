@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://github.com/Gi0vak/Gi0vak/raw/main/img/jeremy-thomas.jpg" alt="Cover image">
+  <img src="https://github.com/Gi0vak/Gi0vak/raw/main/img/jeremy-thomas.jpg" height="100;" alt="Cover image">
 </p>
 
 <!-- Introduction -->
