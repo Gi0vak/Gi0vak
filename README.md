@@ -6,7 +6,7 @@
 <!-- Introduction -->
 ## Hi, I'm Giovanni 👋
 
-I specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. I have also worked with Figma, the Adobe Photoshop suite. I really enjoy CSS and Grid and I am proficient in responsive design. I have worked with SQL using phpMyAdmin and LARAGON, video sharing with Loom, Bootstrap, SplideJs, and many other technologies.
+I specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. I have also worked with Figma and the Adobe Photoshop suite. I really enjoy CSS and Grid and I am proficient in responsive design. I have worked with SQL using phpMyAdmin and LARAGON, video sharing with Loom, Bootstrap, SplideJs, and many other technologies.
 
 <!-- Skills -->
 ## My Skills
