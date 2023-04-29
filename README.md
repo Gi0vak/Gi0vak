@@ -21,10 +21,10 @@ Here are some of my skills:
 - ![Video sharing with Loom](https://img.shields.io/badge/-Loom-6D4C41?logo=Loom&logoColor=white&style=flat)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 - ![SplideJS](https://img.shields.io/badge/-SplideJS-707070?logo=SplideJS&logoColor=white&style=flat)
-
+- ![Cover](https://github.com/Gi0vak/Gi0vak/tree/main/img/bannier_linkedin.png)
 I'm always looking to expand my skillset and work on new projects. If you have a project that you'd like to collaborate on, feel free to reach out!
 
 ## Find me around the web 🌎:
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/yourusername)
 - Personal website: [yourwebsite.com](https://www.yourwebsite.com)
-![Cover](https://github.com/Gi0vak/Gi0vak/tree/main/img/bannier_linkedin.png)
+
