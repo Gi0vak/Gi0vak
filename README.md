@@ -4,7 +4,7 @@
 I'm a Front-end Developer who is passionate about building high-quality web applications using React JS and JavaScript. I also have experience working with MongoDB and Node.js for back-end development. In addition, I'm proficient in using Figma, Adobe Photoshop, Python, and WordPress.
 
 Here are some of my skills:
-
+- <a href="https://www.freepnglogos.com/pics/javascript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png" width="200" alt="fix html css javascript for website logo" /></a>
 - ![React JS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
