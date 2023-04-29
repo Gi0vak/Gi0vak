@@ -6,7 +6,7 @@
   <p align="left" max-width="100px">Specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. Have also worked with Figma and the Adobe Photoshop suite.<br><br>Really enjoy CSS and Grid and I am proficient in responsive design. <br><br> Have worked with SQL using phpMyAdmin and LARAGON,<br> <br> Know how to work with Bootstrap, SplideJs, and many other technologies. <br><br> I am video sharing with Loom.</p>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br>
 
 ## My Skills
 
