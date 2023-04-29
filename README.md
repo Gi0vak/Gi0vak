@@ -4,7 +4,11 @@
 I'm a Front-end Developer who is passionate about building high-quality web applications using React JS and JavaScript. I also have experience working with MongoDB and Node.js for back-end development. In addition, I'm proficient in using Figma, Adobe Photoshop, Python, and WordPress.
 
 Here are some of my skills:
-- <a href="https://www.freepnglogos.com/pics/javascript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png" width="200" alt="fix html css javascript for website logo" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+
 - ![React JS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
@@ -21,6 +25,7 @@ Here are some of my skills:
 - ![Video sharing with Loom](https://img.shields.io/badge/-Loom-6D4C41?logo=Loom&logoColor=white&style=flat)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 - ![SplideJS](https://img.shields.io/badge/-SplideJS-707070?logo=SplideJS&logoColor=white&style=flat)
+  </p>
 - ![Cover](https://github.com/Gi0vak/Gi0vak/tree/main/img/bannier_linkedin.png)
 I'm always looking to expand my skillset and work on new projects. If you have a project that you'd like to collaborate on, feel free to reach out!
 
