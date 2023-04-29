@@ -1,35 +1,50 @@
-
-# Hi there 👋, I'm Giovanni !
-
-I'm a Front-end Developer who is passionate about building high-quality web applications using React JS and JavaScript. I also have experience working with MongoDB and Node.js for back-end development. In addition, I'm proficient in using Figma, Adobe Photoshop, Python, and WordPress.
-
-Here are some of my skills:
+<!-- Cover Image -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://github.com/YourUsername/YourRepository/raw/main/cover.png" alt="Cover image">
+</p>
+
+<!-- Introduction -->
+## Hi, I'm Giovanni 👋
+
+I specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. I have also worked with Figma, the Adobe Photoshop suite. I really enjoy CSS and Grid and I am proficient in responsive design. I have worked with SQL using phpMyAdmin and LARAGON, video sharing with Loom, Bootstrap, SplideJs, and many other technologies.
+
+<!-- Skills -->
+## My Skills
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,py" />
+</p>
+
+### Front-end
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### Back-end
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+### Tools and Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,wordpress,regex,postman" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=codepen,vscode,php,py,powershell,xd" />
+</p>
+
+### Social Media
+
+<p align="center">
+  <a href="https://linkedin.com/in/giovanni-zoppis/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-- ![React JS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-- ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-- ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-333333?style=flat)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-- ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-4479A1?logo=phpmyadmin&logoColor=white&style=flat)
-- ![Laragon](https://img.shields.io/badge/-Laragon-00ADEF?logo=laragon&logoColor=white&style=flat)
-- ![Video sharing with Loom](https://img.shields.io/badge/-Loom-6D4C41?logo=Loom&logoColor=white&style=flat)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-- ![SplideJS](https://img.shields.io/badge/-SplideJS-707070?logo=SplideJS&logoColor=white&style=flat)
-  </p>
-- ![Cover](https://github.com/Gi0vak/Gi0vak/tree/main/img/bannier_linkedin.png)
-I'm always looking to expand my skillset and work on new projects. If you have a project that you'd like to collaborate on, feel free to reach out!
-
-## Find me around the web 🌎:
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/yourusername)
-- Personal website: [yourwebsite.com](https://www.yourwebsite.com)
-
+    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</p>
