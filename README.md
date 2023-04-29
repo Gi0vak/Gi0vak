@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://github.com/YourUsername/YourRepository/raw/main/cover.png" alt="Cover image">
+  <img src="https://github.com/Gi0vak/Gi0vak/raw/main/img/bannier_linkedin.png" alt="Cover image">
 </p>
 
 <!-- Introduction -->
