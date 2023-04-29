@@ -27,3 +27,4 @@ I'm always looking to expand my skillset and work on new projects. If you have a
 ## Find me around the web 🌎:
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/yourusername)
 - Personal website: [yourwebsite.com](https://www.yourwebsite.com)
+![Cover](https://github.com//Gi0vak/Gi0vak/blob/master/img/cover.jpg)
