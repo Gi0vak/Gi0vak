@@ -1,14 +1,13 @@
-<!-- Cover Image -->
-<p align="center">
-  <img src="https://github.com/Gi0vak/Gi0vak/raw/main/img/jeremy-thomas(1).jpg" alt="Cover image">
-</p>
 
 <!-- Introduction -->
 ## Hi, I'm Giovanni 👋
+<div>
+  <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" align="right" width="300" alt="Hello GIF">
+  <p align="left" max-width="100px">I specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. I have also worked with Figma and the Adobe Photoshop suite. I really enjoy CSS and Grid and I am proficient in responsive design. I have worked with SQL using phpMyAdmin and LARAGON, video sharing with Loom, Bootstrap, SplideJs, and many other technologies.</p>
+</div>
 
-I specialize in React JS and JavaScript, with experience in back-end technologies like MongoDB and Node.js. I have also worked with Figma and the Adobe Photoshop suite. I really enjoy CSS and Grid and I am proficient in responsive design. I have worked with SQL using phpMyAdmin and LARAGON, video sharing with Loom, Bootstrap, SplideJs, and many other technologies.
+<br><br><br><br><br><br><br>
 
-<!-- Skills -->
 ## My Skills
 
 ### Programming Languages
@@ -48,3 +47,4 @@ I specialize in React JS and JavaScript, with experience in back-end technologie
     <img src="https://skillicons.dev/icons?i=instagram" />
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </p>
+
