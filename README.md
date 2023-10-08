@@ -4,10 +4,10 @@
 <div>
   <style>
     img {
-      border-radius : 50px;
+      
       }
   </style>
-  <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" align="right" width="290" alt="Hello GIF">
+  <img  border-radius = "50px" src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" align="right" width="290" alt="Hello GIF">
   <p align="left" max-width="100px">Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js(MERN). I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.<br><br>Really enjoy CSS and Grid and I am proficient in responsive design. <br><br> Have worked with SQL using phpMyAdmin, LARAGON and Workbench,<br> <br> Know how to work with Bootstrap, SplideJs, and many other technologies. <br><br> <b>I am video sharing on <a href="https://www.loom.com/share/5e672268f71d495ea6b03a134a1c5c95">loom</a>. </b></p>
 </div>
 
