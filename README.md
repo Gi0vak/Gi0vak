@@ -2,7 +2,7 @@
 <!-- Introduction -->
 ## Hi, I'm Giovanni 👋
 <div>
-  <div width="150px" align="right" >
+  <div width="150" align="right" >
   <kbd>
   <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" witdh= "140px" alt="Hello GIF"/>
   </kbd>
