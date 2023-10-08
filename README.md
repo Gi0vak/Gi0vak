@@ -2,9 +2,9 @@
 <!-- Introduction -->
 ## Hi, I'm Giovanni 👋
 <div>
-  <div width="150" align="right" >
+  <div max-width="150" align="right" >
   <kbd>
-  <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" witdh= "140px" alt="Hello GIF"/>
+  <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" witdh= "140" alt="Hello GIF"/>
   </kbd>
   </div>
     
