@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 
-  ## Hi, I'm Giovanni 👋
+  ### Hi, I'm Giovanni 👋
 <div align="left">
   <p> Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js</p>
   <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite. Really enjoy CSS and Grid and I am proficient in responsive design. 
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-## My Skills
+### My Skills
 
 ### Programming Languages
 
