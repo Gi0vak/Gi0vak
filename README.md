@@ -4,10 +4,9 @@
   ### Hi, I'm Giovanni 👋
 <div align="left">
   <p> Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js</p>
-  <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite. Really enjoy CSS and Grid and I am proficient in responsive design. 
+  <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.</p> 
+  <p>Really enjoy CSS and Grid and I am proficient in responsive design. 
     </p>
-    <p> 
-    Have worked with SQL using phpMyAdmin, LARAGON and Workbench.</p>
     <p> Know how to work with Bootstrap, SplideJs, and many other technologies.  </p>
   <br>
   <p><b>I am video sharing on <a href="https://www.loom.com/share/5e672268f71d495ea6b03a134a1c5c95">loom</a>.    </b></p>
