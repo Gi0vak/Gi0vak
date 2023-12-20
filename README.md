@@ -3,6 +3,7 @@
 
   ## Hi, I'm Giovanni 👋
 <div align="left">
+  <img height="auto" width="200" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <p> Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js</p>
   <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.</p> 
   <p>Really enjoy CSS and Grid and I am proficient in responsive design. 
@@ -10,7 +11,6 @@
     <p> Know how to work with Bootstrap, SplideJs, and many other technologies.  </p>
   <br>
   
-  <img height="auto" width="200" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <p><b>I am video sharing on <a href="https://www.loom.com/share/0d7dbe062342449fb6e42c4d0c72e116">loom</a>.    </b></p>
     </p>
   <br>
