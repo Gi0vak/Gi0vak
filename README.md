@@ -1,10 +1,6 @@
 
 <!-- Introduction -->
-<div align="center"> 
-  
-### <a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
-</div>
-  
+
 ## Hi, I'm Giovanni 👋
 
 
@@ -24,7 +20,11 @@
   <p>Really enjoy <b>CSS</b> and <b>Grid</b> and I am proficient in responsive design. 
     <p> Know how to work with <b>Bootstrap</b>, <b>SplideJs</b>, and many other technologies.  </p>
 </div>
-
+<div align="center"> 
+  
+### <a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
+</div>
+  
 ## About me👋
 <p> I'm inherently curious, which has led me on a journey of self-discovery through various job experiences. I've always been drawn to emerging technologies, music, and sports, fueling my constant desire to learn and explore in these realms. My adventures took me to Australia for a year and Ireland for a month, adding both personal and professional depth to my journey.
 
