@@ -14,7 +14,7 @@
   <br>
   <br>
   <div align="center">
-  <img src="https://github.com/Gi0vak/Gi0vak/blob/main/img/touraineTheGif.gif" alt="Touraine GIF"/>
+  <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
 </div>
 <br>
