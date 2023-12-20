@@ -1,6 +1,6 @@
 
 <!-- Introduction -->
-<dv align="right"> 
+<div align="right"> 
   
 ### <a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
 </div>
