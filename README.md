@@ -49,25 +49,25 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
 
 <div align="center" >
   
-### Programming Languages
+### <span style="color:blue">Programming Languages</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,php,py" />
 </p>
 
-### Front-end
+### <span style="color:blue">Front-end</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,wordpress,nextjs" />
 </p>
 
-### Back-end
+### <span style="color:gray">Back-end</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### Tools and Technologies
+### <span style="color:green">Tools and Technologies</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,wordpress,regex,postman" />
@@ -77,7 +77,7 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
   <img src="https://skillicons.dev/icons?i=codepen,vscode,php,py,powershell,xd" />
 </p>
 
-### Social Media
+### <span style="color:red">Social Media</span>
 
 <p align="center">
   <a href="https://linkedin.com/in/giovanni-zoppis/">
