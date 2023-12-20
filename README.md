@@ -7,11 +7,11 @@
   <img height="300" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <img height="300" width="auto"src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   </div>
-  <p> Specialize in <b>React JS</b> and <b>React native</b>, with experience in back-end technologies like Firebase, MongoDB and Node.js</p>
-  <p>I have also worked with the CMS Wordpress and practice UX/UI design with Figma and the Adobe Photoshop suite.</p> 
-  <p>Really enjoy CSS and Grid and I am proficient in responsive design. 
+  <p> Specialize in <b>React JS</b> and <b>React native</b>, with experience in back-end technologies like <b>Firebase</b>, <b>MongoDB</b> and <b>Node.js</b></p>
+  <p>I have also worked with the CMS <b>Wordpress</b> and practice UX/UI design with <b>Figma</b> and the Adobe <b>Photoshop</b> suite.</p> 
+  <p>Really enjoy <b>CSS</b> and <b>Grid</b> and I am proficient in responsive design. 
     </p>
-    <p> Know how to work with Bootstrap, SplideJs, and many other technologies.  </p>
+    <p> Know how to work with <b>Bootstrap</b>, <b>SplideJs</b>, and many other technologies.  </p>
   <br>
   
   <p><b>I am video sharing on <a href="https://www.loom.com/share/0d7dbe062342449fb6e42c4d0c72e116">loom</a>.    </b></p>
