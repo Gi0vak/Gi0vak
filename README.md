@@ -20,9 +20,13 @@
   <p>Really enjoy <b>CSS</b> and <b>Grid</b> and I am proficient in responsive design. 
     <p> Know how to work with <b>Bootstrap</b>, <b>SplideJs</b>, and many other technologies.  </p>
 </div>
+
 <div align="center"> 
   
+  <br>
 ### <a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
+<br>
+  
 </div>
   
 ## About me👋
