@@ -49,7 +49,7 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
 
 <div align="center" >
   
-<span style="color:blue, font-size:24">Programming Languages</span>
+<h3 style="color:blue, font-size:24">Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,php,py" />
