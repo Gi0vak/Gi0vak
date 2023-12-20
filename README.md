@@ -52,13 +52,7 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
 
 <div align="center" >
   
-
-
-```diff 
-
-@@ Programming Languages @@ 
-
-```
+### Programming Languages 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,php,py" />
