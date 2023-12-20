@@ -18,6 +18,10 @@
     </p>
   <br>
 </div>
+
+## About me👋
+<p> I'm curious of many things that's why I was looking for myself during a long time and work in many differents jobs. However I always was attracted by every new technologies, music and sports. I travelled in Austraulia for one year and a month in Ireland. I'm coding since 2017 and I'm fullstack Javascript debveloper with certifcate since September 2023. </p>
+<p> I'm currently working on a react native project (Android deployement) with a friend who likes apples</p>
   
 ## My Projects
 
