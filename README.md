@@ -7,7 +7,7 @@
   <img height="300" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <img height="300" width="auto"src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   
-  ![GitHub top language](https://img.shields.io/github/languages/top/Gi0vak/haveyouseenmypet?color=yellow) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/Gi0vak/haveyouseenmypet?color=green) 
     
   </div>
   <p> Specialize in <b>React JS</b> and <b>React native</b>, with experience in back-end technologies like <b>Firebase</b>, <b>MongoDB</b> and <b>Node.js</b></p>
@@ -51,8 +51,10 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
 <br>
 
 <div align="center" >
-````diff
-+ Programming Languages
+  
+
+
+```diff @@ Programming Languages @@ ```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,php,py" />
