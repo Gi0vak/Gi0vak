@@ -16,6 +16,8 @@
   <div align="center">
   
 ## My Projects
+
+<br>
   
   <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
@@ -30,7 +32,7 @@
 
 </div>
 <br>
-<br>
+
 
 ### Programming Languages
 
