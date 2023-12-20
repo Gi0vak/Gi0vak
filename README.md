@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 
-  ## Hi, I'm Giovanni 👋 <a href="https://www.linkedin.com/in/giovanni-zoppis/">My likedin<img width="30" height="32"  src="https://skillicons.dev/icons?i=linkedin" /></a>
+  ## Hi, I'm Giovanni 👋 <a href="https://www.linkedin.com/in/giovanni-zoppis/">My likedin <img width="20" height="auto"  src="https://skillicons.dev/icons?i=linkedin" /></a>
 <div align="left">
   <div>
   <img height="300" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
