@@ -1,9 +1,10 @@
 
 <!-- Introduction -->
 
-  ##Hi, I'm Giovanni 👋 
-  
-  <a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
+## Hi, I'm Giovanni 👋
+
+### <a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
+
 <div align="left">
   <div>
   <img height="250" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
