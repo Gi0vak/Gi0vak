@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   </div>
   <p> Specialize in React JS and React native, with experience in back-end technologies like Firebase, MongoDB and Node.js</p>
-  <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.</p> 
+  <p>I have also worked with the CMS Wordpress and practice UX/UI design with Figma and the Adobe Photoshop suite.</p> 
   <p>Really enjoy CSS and Grid and I am proficient in responsive design. 
     </p>
     <p> Know how to work with Bootstrap, SplideJs, and many other technologies.  </p>
