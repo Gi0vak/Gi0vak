@@ -55,7 +55,7 @@
 ### Back-end
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql, firebase" />
 </p>
 
 ### Tools and Technologies
