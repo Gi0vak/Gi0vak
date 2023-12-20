@@ -16,10 +16,11 @@
   
 ## My Projects
 
-  <div align="center">
+  <div align="center" >
 <br>
- 
+ <div>
   <img src="https://miro.medium.com/v2/resize:fit:200/1*GkR93AAlILkmE_3QQf88Ug.png" alt="reactNative"/>
+ </div>
   <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
 </div>
