@@ -47,7 +47,7 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
 
 <br>
 
-
+<div align="center" >
 ### Programming Languages
 
 <p align="center">
@@ -85,4 +85,4 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
     <img src="https://skillicons.dev/icons?i=instagram" />
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </p>
-
+</div>
