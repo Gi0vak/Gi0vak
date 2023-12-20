@@ -13,9 +13,7 @@
   <p> Specialize in <b>React JS</b> and <b>React native</b>, with experience in back-end technologies like <b>Firebase</b>, <b>MongoDB</b> and <b>Node.js</b></p>
   <p>I have also worked with the CMS <b>Wordpress</b> and practice UX/UI design with <b>Figma</b> and the Adobe <b>Photoshop</b> suite.</p> 
   <p>Really enjoy <b>CSS</b> and <b>Grid</b> and I am proficient in responsive design. 
-    </p>
     <p> Know how to work with <b>Bootstrap</b>, <b>SplideJs</b>, and many other technologies.  </p>
-  <br>
 </div>
 
 ## About me👋
