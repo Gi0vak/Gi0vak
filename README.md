@@ -7,7 +7,7 @@
   <img height="auto" width="200" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   </div>
-  <p> Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js</p>
+  <p> Specialize in React JS and React native, with experience in back-end technologies like Firebase, MongoDB and Node.js</p>
   <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.</p> 
   <p>Really enjoy CSS and Grid and I am proficient in responsive design. 
     </p>
