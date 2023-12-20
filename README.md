@@ -7,8 +7,8 @@
   <img height="300" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <img height="300" width="auto"src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   
-![GitHub language count](https://img.shields.io/github/languages/count/Gi0vak/TellStory)
-![GitHub forks](https://img.shields.io/github/forks/Gi0vak/TellStory?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/Gi0vak/haveyouseenmypet)
+![GitHub forks](https://img.shields.io/github/forks/Gi0vak/haveyouseenmypet?style=social)
   </div>
   <p> Specialize in <b>React JS</b> and <b>React native</b>, with experience in back-end technologies like <b>Firebase</b>, <b>MongoDB</b> and <b>Node.js</b></p>
   <p>I have also worked with the CMS <b>Wordpress</b> and practice UX/UI design with <b>Figma</b> and the Adobe <b>Photoshop</b> suite.</p> 
