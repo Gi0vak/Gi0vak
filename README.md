@@ -48,6 +48,7 @@ I've been coding since 2017 and am a certified full-stack JavaScript developer s
 <br>
 
 <div align="center" >
+  
 ### Programming Languages
 
 <p align="center">
