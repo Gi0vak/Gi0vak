@@ -13,10 +13,10 @@
     </p>
   <br>
   <br>
-  <div align="center">
   
 ## My Projects
 
+  <div align="center">
 <br>
   
   <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
@@ -25,11 +25,11 @@
 <br>
 <br>
 
-<div align="center" >
+
   
 ## My Skills
 
-</div>
+
 <br>
 
 
