@@ -25,7 +25,7 @@
 <br>
  <div>
   <img height="auto" width="200" src="https://devocean.sk.com/editorImg/2023/5/20/86c0b9b5c4e3dc4d3ee15f233b9e7b8140da91298e03f30be5576712ac8e6cd3" alt="reactNative"/>
-  <img height="156" width="100" style="border-radius:50%" src="https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_Indre-et-Loire_-_2019.svg" alt="touraine le département"/>
+  <img height="156" width="200" style="border-radius:50%" src="https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_Indre-et-Loire_-_2019.svg" alt="touraine le département"/>
  </div>
     <div>
     <br>
