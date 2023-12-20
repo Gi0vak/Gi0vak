@@ -16,10 +16,6 @@
     </p>
     <p> Know how to work with <b>Bootstrap</b>, <b>SplideJs</b>, and many other technologies.  </p>
   <br>
-  
-  <p><b>I am video sharing on <a href="https://www.loom.com/share/0d7dbe062342449fb6e42c4d0c72e116">loom</a>.    </b></p>
-    </p>
-  <br>
 </div>
 
 ## About me👋
