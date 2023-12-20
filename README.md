@@ -15,7 +15,7 @@
   <br>
   <div align="center">
     <kbd>
-  <img src="https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif" width="250" alt="Hello GIF"/>
+  <img src="[https://media.giphy.com/media/Tf3fPureumpd9en03K/giphy.gif](https://drive.google.com/uc?id=11rewcn6iV_ZOz8aibRepfW4r-nRH-cBw&export=download)" width="250" alt="Hello GIF"/>
       </kbd>
   </div>
 </div>
