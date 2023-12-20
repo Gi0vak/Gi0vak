@@ -14,9 +14,7 @@
   <br>
   <br>
   <div align="center">
-    <kbd>
   <img src="https://drive.google.com/uc?id=11rewcn6iV_ZOz8aibRepfW4r-nRH-cBw&export=download" width="250" alt="Hello GIF"/>
-      </kbd>
   </div>
 </div>
 <br>
