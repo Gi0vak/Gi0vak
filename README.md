@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 
-## Hi, I'm Giovanni 👋
+## <p align="left">Hi, I'm Giovanni 👋 </p> <p align="right"><a margin=0 href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a></p>
 
 
 
@@ -12,7 +12,7 @@
   
   ![GitHub top language](https://img.shields.io/github/languages/top/Gi0vak/haveyouseenmypet?color=green) 
   
-  ### <a margin=0 href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
+  ### 
   
   </div>
   <p> Specialize in <b>React JS</b> and <b>React native</b>, with experience in back-end technologies like <b>Firebase</b>, <b>MongoDB</b> and <b>Node.js</b></p>
