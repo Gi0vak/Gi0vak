@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 
-  ### Hi, I'm Giovanni 👋
+  ## Hi, I'm Giovanni 👋
 <div align="left">
   <p> Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js</p>
   <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.</p> 
@@ -15,7 +15,7 @@
   <br>
   <div align="center">
   
-### My Projects
+## My Projects
   
   <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
@@ -26,31 +26,31 @@
 <br>
 <div align="center" >
   
-### My Skills
+## My Skills
 
 </div>
 <br>
 <br>
 
-## Programming Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,py" />
 </p>
 
-## Front-end
+### Front-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-## Back-end
+### Back-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
-## Tools and Technologies
+### Tools and Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,wordpress,regex,postman" />
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=codepen,vscode,php,py,powershell,xd" />
 </p>
 
-## Social Media
+### Social Media
 
 <p align="center">
   <a href="https://linkedin.com/in/giovanni-zoppis/">
