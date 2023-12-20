@@ -19,7 +19,7 @@
   <div align="center">
 <br>
  
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*GkR93AAlILkmE_3QQf88Ug.png" alt="reactNative"/>
+  <img src="https://miro.medium.com/v2/resize:fit:200/1*GkR93AAlILkmE_3QQf88Ug.png" alt="reactNative"/>
   <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
 </div>
