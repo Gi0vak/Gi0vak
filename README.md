@@ -13,17 +13,20 @@
     </p>
   <br>
   <br>
+  <div align="center">
   
 ### My Projects
   
-  <div align="center">
   <img src="https://github.com/Gi0vak/Gi0vak/blob/main/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
 </div>
 <br>
 <br>
-
+<div align="center">
+  
 ### My Skills
+
+</div>
 
 ### Programming Languages
 
