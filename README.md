@@ -14,7 +14,7 @@
   <br>
   <br>
   <div align="center">
-  <img src="https://drive.google.com/uc?id=11rewcn6iV_ZOz8aibRepfW4r-nRH-cBw&export=download" width="250" alt="Hello GIF"/>
+  <img src="https://github.com/Gi0vak/Gi0vak/blob/main/img/touraineTheGif.gif" alt="Touraine GIF"/>
   </div>
 </div>
 <br>
