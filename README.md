@@ -4,8 +4,8 @@
   ## <p>Hi, I'm Giovanni 👋 </p><a align="right" href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a>
 <div align="left">
   <div>
-  <img height="200" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
-  <img height="200" width="auto"src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
+  <img height="250" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
+  <img height="250" width="auto"src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   
   ![GitHub top language](https://img.shields.io/github/languages/top/Gi0vak/haveyouseenmypet?color=green) 
     
