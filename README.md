@@ -22,7 +22,7 @@
 </div>
 <br>
 <br>
-<div align="center">
+<div align="center" text-align="center">
   
 ### My Skills
 
