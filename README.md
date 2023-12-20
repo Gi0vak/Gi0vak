@@ -20,8 +20,9 @@
 </div>
 
 ## About me👋
-<p> I'm curious of many things that's why I was looking for myself during a long time and work in many differents jobs. However I always was attracted by every new technologies, music and sports. I travelled in Austraulia for one year and a month in Ireland. I'm coding since 2017 and I'm fullstack Javascript debveloper with certifcate since September 2023. </p>
-<p> I'm currently working on a react native project (Android deployement) with a friend who likes apples</p>
+<p> I'm inherently curious, which has led me on a journey of self-discovery through various job experiences. I've always been drawn to emerging technologies, music, and sports, fueling my constant desire to learn and explore in these realms. My adventures took me to Australia for a year and Ireland for a month, adding both personal and professional depth to my journey.
+
+I've been coding since 2017 and am a certified full-stack JavaScript developer since September 2023. Presently, I'm deeply involved in a React Native project (for Android deployment) alongside a friend who happens to have a love for apples 🍏.</p>
   
 ## My Projects
 
