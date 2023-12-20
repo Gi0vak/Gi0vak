@@ -9,6 +9,8 @@
     </p>
     <p> Know how to work with Bootstrap, SplideJs, and many other technologies.  </p>
   <br>
+  
+  <img src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
   <p><b>I am video sharing on <a href="https://www.loom.com/share/5e672268f71d495ea6b03a134a1c5c95">loom</a>.    </b></p>
     </p>
   <br>
