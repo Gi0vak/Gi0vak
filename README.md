@@ -31,25 +31,26 @@
 </div>
 <br>
 <br>
+
 ## Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,py" />
 </p>
 
-### Front-end
+## Front-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-### Back-end
+## Back-end
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
-### Tools and Technologies
+## Tools and Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,wordpress,regex,postman" />
@@ -59,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=codepen,vscode,php,py,powershell,xd" />
 </p>
 
-### Social Media
+## Social Media
 
 <p align="center">
   <a href="https://linkedin.com/in/giovanni-zoppis/">
