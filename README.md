@@ -5,7 +5,7 @@
 <div align="left">
   <div>
   <img height="auto" width="200" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
-  [![Gi0vak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gi0vak)](https://github.com/Gi0vak/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Gi0vak"/>
   </div>
   <p> Specialize in React JS and React native, with experience in back-end technologies like MongoDB and Node.js</p>
   <p>I have also worked with the CMS Wordpress and practice design with Figma and the Adobe Photoshop suite.</p> 
