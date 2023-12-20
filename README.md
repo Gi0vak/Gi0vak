@@ -22,13 +22,16 @@
 </div>
 <br>
 <br>
-<div align="center" margin=20>
+<br>
+<br>
+<div align="center" >
   
 ### My Skills
 
 </div>
-
-### Programming Languages
+<br>
+<br>
+## Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,py" />
