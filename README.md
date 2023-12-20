@@ -19,7 +19,7 @@
 ## About me👋
 <p> I'm inherently curious, which has led me on a journey of self-discovery through various job experiences. I've always been drawn to emerging technologies, music, and sports, fueling my constant desire to learn and explore in these realms. My adventures took me to Australia for a year and Ireland for a month, adding both personal and professional depth to my journey.
 
-I've been coding since 2017 and am a certified full-stack JavaScript developer since September 2023. Presently, I'm deeply involved in a React Native project (for Android deployment) alongside a friend who happens to have a love for apples 🍏.</p>
+I've been coding since 2017 and am a <b>certified full-stack JavaScript developer</b> since September 2023. Presently, I'm deeply involved in a React Native project (for Android deployment) alongside a friend who happens to have a love for apples 🍏.</p>
   
 ## My Projects
 
