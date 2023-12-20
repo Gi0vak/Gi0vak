@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 
-<div><h3 align="left">Hi, I'm Giovanni 👋 </h3> <h3 align="right"><a margin=0 href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a></h3></div> 
+<div><h2 align="left">Hi, I'm Giovanni 👋 </h2> <h2 align="right"><a margin=0 href="https://www.linkedin.com/in/giovanni-zoppis/"><img width="20" height="auto" src="https://skillicons.dev/icons?i=linkedin" /> My likedin</a></h2></div> 
 
 
 
