@@ -36,19 +36,19 @@
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,py" />
+  <img src="https://skillicons.dev/icons?i=ts,php,py" />
 </p>
 
 ### Front-end
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,wordpress,nextjs" />
 </p>
 
 ### Back-end
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools and Technologies
