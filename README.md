@@ -34,7 +34,7 @@
 
 I've been coding since 2017 and am a <b>certified full-stack JavaScript developer</b> since September 2023. Presently, I'm deeply involved in a React Native project (for Android deployment) alongside a friend who happens to have a love for apples 🍏.</p>
   
-## My Projects
+## My main project
 
   <div align="center" >
 <br>
