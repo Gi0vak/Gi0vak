@@ -8,7 +8,7 @@
 <div align="left">
   <div>
   <img height="250" width="auto" style="border-radius:50%" src="https://github.com/Gi0vak/Gi0vak/blob/main/modifMoi.jpg" alt="reactNative"/>
-  <img height="300" width="auto"src="https://streak-stats.demolab.com?user=Gi0vak&theme=transparent"/>
+  <img height="400" width="auto"src="https://streak-stats.demolab.com?user=Gi0vak&theme=transparent"/>
   
   
   ### 
